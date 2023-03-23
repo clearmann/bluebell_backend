@@ -1,0 +1,14 @@
+.air.conf
+/.idea/*
+/static/*
+/templates/*
+docker-compose.yml
+Dockerfile.back
+init.sql
+nginx.conf
+nginx2.conf
+wait-for.sh
+web_app.log
+*.log
+*.sql
+/bin/*
